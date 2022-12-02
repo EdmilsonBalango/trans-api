@@ -12,19 +12,19 @@ For more inormations visit our page and read the [documentation](#)
 ## installation.
 
 ### npm
-Installation using npm
+Installation using `npm`
 ```js
 npm install @react-native-spotlight @react-native-spotlight/components
 ```
 
 ### yarn 
-Installation using yarn
+Installation using `yarn`
 ```js 
 yarn add @react-native-spotlight @react-native-spotlight/components
 ```
 
 
-### implementation
+### Quick implementation
 ```js
 
 import React, { useState } from 'react';
